@@ -14,7 +14,7 @@ YPShop은 2022년 7월 2일 개업하여 현재까지 꾸준히 활동을 이어
 * 에덴서버
 
 ## © 라이선스
-YPShop의 별도 저작권 표시가 없는 모든 공개된 소스는[CC-BY-NC-ND 2.0 KR](https://creativecommons.org/licenses/by-nc-nd/2.0/kr/)에 따라 사용 가능합니다.
+YPShop의 별도 저작권 표시가 없는 모든 공개된 소스는[CC-BY-NC-SA 2.0 KR](https://creativecommons.org/licenses/by-nc-sa/2.0/kr/)에 따라 사용 가능합니다.
 
 ## 📞 연락처
 카카오톡 : ypshop  
