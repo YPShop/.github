@@ -12,7 +12,7 @@ YPShop은 2022년 7월 2일 개업하여 현재까지 꾸준히 활동을 이어
   - 노동의숲 시즌 2 ( 그때 그 시절 ) ✔
 * ~~ITS ( 우주 속 에서 )~~
 * 에덴서버
-* [공용문서 사회실험](http://go9.co/S0a)
+* ~~[공용문서 사회실험](http://go9.co/S0a)~~
 
 ## © 라이선스
 YPShop의 별도 저작권 표시가 없는 모든 공개된 소스는 [CC-BY-NC-SA 2.0 KR](https://creativecommons.org/licenses/by-nc-sa/2.0/kr/) 에 따라 사용 가능합니다.
