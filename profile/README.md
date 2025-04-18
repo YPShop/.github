@@ -23,6 +23,6 @@ YPShop의 별도 저작권 표시가 없는 모든 공개된 소스는 [CC-BY-NC
 디스코드 : expo94718  
 
 ## 👩‍👩‍👦‍👦 디스코드
-현재 준비중입니다.
+http://discordmall.endsoft.kr/
 
 
